@@ -8,10 +8,10 @@
 ## Datos
 Los datos del proyecto vienen de la competición [Dont Get Kicked](https://www.kaggle.com/competitions/DontGetKicked/overview)
 En los colab, pueden hacer disponibles los datos ejecutando las celdas 
-'''
+```
 url = 'https://raw.githubusercontent.com/IsaParejaGil/training-data/main/training.csv'
 df = pd.read_csv(url)
-'''
+```
 
 ## Videos
 [Video segunda entrega](https://youtu.be/G1pKKKqYmNY)
