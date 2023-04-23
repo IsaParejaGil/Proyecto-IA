@@ -6,7 +6,7 @@
 - Isabela Pareja Gil, CC 1000207825, Ingeniería Industrial
 
 ## Datos
-Los datos del proyecto vienen de la competición [Datos Dont Get Kicked](https://www.kaggle.com/competitions/DontGetKicked/overview)
+Los datos del proyecto vienen de la competición [Dont Get Kicked](https://www.kaggle.com/competitions/DontGetKicked/overview)
 
 ## Videos
 [Video segunda entrega](https://youtu.be/G1pKKKqYmNY)
